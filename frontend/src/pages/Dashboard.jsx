@@ -46,7 +46,7 @@ function Dashboard() {
               <GoalItem key={goal._id} goal={goal} />
             ))}
           </div>
-        ) : (<h3>No tasks to complete.</h3>)}
+        ) : (<h3>No tasks added yet.</h3>)}
       </section>
     </>
   )

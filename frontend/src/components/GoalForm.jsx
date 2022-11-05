@@ -23,7 +23,7 @@ function GoalForm() {
             </div>
             <div className="form-group">
                 <button className='btn btn-block' type='submit'>
-                    Add To TODO list.
+                    Add To list
                 </button>
             </div>
         </form>
