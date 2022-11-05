@@ -23,5 +23,14 @@
   "devDependencies": {
     "concurrently": "^7.5.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterMav/GoalSetter.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/masterMav/GoalSetter/issues"
+  },
+  "homepage": "https://github.com/masterMav/GoalSetter#readme"
 }
